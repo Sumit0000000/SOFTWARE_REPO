@@ -9,9 +9,13 @@ package githubweek3;
  * @author Sandeep
  */
 public class localgit {
+    public void getData(){
+        
+    }
     public static void main(String[] args){
         System.out.println("hello world");
         System.out.println("hello");
+        
     }
 }
 
