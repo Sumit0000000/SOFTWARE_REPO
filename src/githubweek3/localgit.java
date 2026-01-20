@@ -9,5 +9,7 @@ package githubweek3;
  * @author Sandeep
  */
 public class localgit {
+    private int age;
+    private int data;
     
 }
