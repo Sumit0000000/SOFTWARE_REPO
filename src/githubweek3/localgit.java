@@ -15,8 +15,11 @@ public class localgit {
     public static void main(String[] args){
         System.out.println("hello world");
         System.out.println("hello");
-        System.out.println("this is test branch");
+        int x = 10;
+//        this function created a new branch named new project
+        
         
     }
 }
+
 
