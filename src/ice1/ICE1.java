@@ -15,6 +15,7 @@ public class ICE1 {
      */
     public static void main(String[] args) {
         System.out.println("Hello! This is my first inclass exercise-1");
+        System.out.println("Branch and clone are created");
     }
     
 }
